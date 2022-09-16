@@ -1,5 +1,12 @@
 [
   {
+    "word": "Aloha",
+    "is_checked": false,
+    "translates": [
+      "ألوها",
+    ]
+  },
+  {
     "word": "Abort",
     "is_checked": false,
     "translates": [
